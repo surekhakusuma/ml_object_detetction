@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>pexels-krish-chaitu-1033116.jpg</filename>
+	<path>C:\Users\sachi\Desktop\images\pexels-krish-chaitu-1033116.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3456</width>
+		<height>5184</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>558</ymin>
+			<xmax>3086</xmax>
+			<ymax>3503</ymax>
+		</bndbox>
+	</object>
+</annotation>

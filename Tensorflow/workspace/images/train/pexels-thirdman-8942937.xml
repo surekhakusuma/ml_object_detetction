@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>pexels-thirdman-8942937.jpg</filename>
+	<path>C:\Users\sachi\Desktop\images\pexels-thirdman-8942937.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3648</width>
+		<height>5472</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>936</ymin>
+			<xmax>2797</xmax>
+			<ymax>4242</ymax>
+		</bndbox>
+	</object>
+</annotation>

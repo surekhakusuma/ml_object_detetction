@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>pexels-kaique-rocha-775205.jpg</filename>
+	<path>C:\Users\sachi\Desktop\images\pexels-kaique-rocha-775205.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3333</width>
+		<height>5000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1513</xmin>
+			<ymin>2750</ymin>
+			<xmax>1680</xmax>
+			<ymax>3038</ymax>
+		</bndbox>
+	</object>
+</annotation>
