@@ -2,7 +2,11 @@
  
 Object detection using Tensorflow: 
 
-![image](https://user-images.githubusercontent.com/63505449/159665914-8248ecfe-177b-4024-84c8-d7eb217a524a.png)
+Object detection
+	Detect from existing image
+	Detect through webcam
+![image](https://user-images.githubusercontent.com/63505449/159667244-4aa00d00-ca53-4b8b-ae47-2e98058e97c1.png)
+
 
 	Proposed Modules:
 1. Capturing images
@@ -50,7 +54,8 @@ Object detection using Tensorflow:
 
 ![image](https://user-images.githubusercontent.com/63505449/159666908-399532b8-c643-4a79-a48c-65e32eca89b5.png)
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/63505449/159667338-353bfd88-e770-4e64-bcc8-d03d5c25fea2.png)
+
 
 
 
